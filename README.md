@@ -59,15 +59,27 @@ The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter 
 The data was analyzed to answer the following questions: (10 points)
 
 How many months exist on Mars? (5 points)
+
 How many Martian days' worth of data are there? (5 points)
+
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
 
 Which month, on average, has the lowest temperature? The highest? (10 points)
+
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+
 The DataFrame was exported into a CSV file. (5 points)
   
-  
+Data tables:
+
+Average temperature
+![image](https://user-images.githubusercontent.com/94163197/226765112-e2935f17-62d2-404c-9be8-df411939c756.png)
+
+Average pressure
+![image](https://user-images.githubusercontent.com/94163197/226765183-145cd797-951d-490d-a682-64235c952f71.png)
+
   
   
   
